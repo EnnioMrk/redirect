@@ -1,4 +1,0 @@
-providers = ["bun"]
-
-[build]
-cmd = "bun install --production"
